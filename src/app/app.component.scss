@@ -1,0 +1,26 @@
+.toolbar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 60px;
+    background-color: #50a1f3;
+    border-bottom:#accff2 4px ridge;
+  }
+  
+  svg#clouds {
+    position: fixed;
+    bottom: -160px;
+    left: -230px;
+    z-index: -10;
+    width: 1920px;
+  }
+  
+  h1{
+    margin-top: 15px;
+    color: white;
+    font-size: 23px;
+    text-align: center;
+    text-shadow: 0 0 3px #bb9c9c, 0 0 5px #0d1824;
+  }
+  
